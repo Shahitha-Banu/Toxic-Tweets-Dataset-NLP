@@ -7,13 +7,19 @@ The tweets are cleaned, the stop words are removed and it is lemmetasied using t
 The following prediction classifiers are applied on the tweets along with BOW and TF-IDF scores
 
 • Decision Trees
+
 • Random forest
+
 • Naive Bayes Model
+
 • K-NN Classifier
+
 • SVM
 
 For each classifier the following metrics are analysed.
 
 • Precision, Recall, F1 - Score
+
 • Confusion Matrix
+
 • RoC - AUC curve
